@@ -24,5 +24,3 @@ Technologies used to develop this tool:
 -Eclipse JEE Mars4.5
 *which internally uses Selenium2.53.0
 
-Note: Due to some reasons, some files are present here in zip format, while executing the tool please do unzip those required zipped files.
-
